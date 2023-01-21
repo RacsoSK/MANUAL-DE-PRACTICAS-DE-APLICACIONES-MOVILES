@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Screenshot_calcu.jpg)
+![Image text](https://github.com/RacsoSK/MANUAL-DE-PRACTICAS-DE-APLICACIONES-MOVILES/blob/main/calculadora_app/Screenshot_calcu.jpg)
